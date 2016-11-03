@@ -1,2 +1,2 @@
 # MyVimrcSetting
-my .vimrc setting
+my .vimrc setting.You can download 
